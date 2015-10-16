@@ -1,6 +1,6 @@
 name: 3birdnest
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8253409068565816
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.3537275083363056
